@@ -1,0 +1,668 @@
+{
+    "AAA_DKDQuicklookData" = <040b7374 7265616d 74797065 6481e803 84014084 8484134e 534d7574 61626c65 44696374 696f6e61 72790084 840c4e53 44696374 696f6e61 72790084 84084e53 4f626a65 63740085 84016901 92848484 084e5353 7472696e 67019584 012b1144 4b445061 67654f6e 65504446 44617461 86928484 840d4e53 4d757461 626c6544 61746100 8484064e 53446174 61009596 81ff0a84 075b3238 3135635d 25504446 2d312e33 0a25c4e5 f2e5eba7 f3a0d0c4 c60a3420 30206f62 6a0a3c3c 202f4c65 6e677468 20352030 2052202f 46696c74 6572202f 466c6174 65446563 6f646520 3e3e0a73 74726561 6d0a7801 75963b72 dc300c86 7b9e0217 882c8214 49d55b64 269d678f a049e214 2e9c2d72 fd800f3c 44ed8e0b dbff2e20 e0e30f50 5ff00e5f b02e09fe c0dbede1 e17880a7 fff7b4e6 1203fd55 0a860d77 781cf0f6 9dbef0fb 012bfd6c 39410e11 fefe845f 80f0cf21 fce8196e f7f68515 ee374a4d c9e8e75b fd55bf7e 7c42ce4b 58438058 96b4a78c f009655d 302006d8 fc92704b dea99296 9063d825 6cdb6b38 163820c7 f6598684 2d3e42da 5b7c304a 6a4f7126 2c8525a7 9c336c9c 5b95f17c 483d4c8b 3c24b78b 5b8ba7fe f9f9aacc bd1df021 959b86ef 0dfb998d 23363ef8 0b1c1f62 eb4ee0d0 b758e106 248edb74 07782c15 0f41613a 1e43c363 153a7a3a 04e038a2 ea7daefd 15c1e354 613c1e47 9cf4549f 37b20b0d a9801527 759ab88f a75d3f23 54dde363 3bffe024 03695bef d0101245 088db853 a7b17d1a 9d128abd 43432874 9b9ee242 738012a2 0ebae2d8 c0a48c38 a9930871 76e6414a af008c32 f7572dc4 5dab1f3f e125a1b2 9d3de488 5029b387 4411421c 67bd50f0 ec21e769 7ceb881a 42340617 0f657ff6 10785178 c43dc759 429c5d79 70054699 fb6b84b8 7ac9f69a 1086ced8 d2c4d83d a427c88a cc01489c 2184619c a0780869 862b2175 15d224ce 8410670f a9c253c6 71eaf583 6a180e15 1e528151 e6fe2a21 ae5eb3bd 26b437c4 b4640dcd bd5b28ea 94b1e264 914a9c21 b4370b05 e398d22d 643653e9 1642bba6 4bb3105d 33925d15 26c4715a e7019c5d f7b45420 84a44ee9 af12baaa 83903b6f eab6877c 384f195d 63dea779 ca441953 46bb74c4 1942deaf e72903bf 6ef394ad 78f6106d f87d1f17 91105285 09798e33 9d4a76e6 41558d0a 58a15ee6 feda945d d4e71eaa 7719ae73 86aacd84 54e13d24 714c883a c5f54288 0e6bda43 74ccf394 f9d210e9 a676aa08 218eb384 38bbf090 0a587152 a789a329 7bd2f5ab 4d8dd86f 7b3b9188 7cb7737d aa08a111 67ef24f4 fdb6375b 87ceea4c 08e99467 42b84eb7 3d75d015 b30939ce 748a9c9d 790057a0 77d9b5bf b687b87a c9f6dc43 75ca709b 5ea8e82e c3d4df16 750fa922 84388e3d 44ef35b8 b5d735dd 3a0ee99d 602244f7 f185506c ef8bea21 4051c619 51a6ebfb a2645742 5c8151e6 fe1a21ae 7e22f4fe 1f9dae4d a90a656e 64737472 65616d0a 656e646f 626a0a35 2030206f 626a0a38 30370a65 6e646f62 6a0a3220 30206f62 6a0a3c3c 202f5479 7065202f 50616765 202f5061 72656e74 20332030 2052202f 5265736f 75726365 73203620 30205220 2f436f6e 74656e74 73203420 30205220 2f4d6564 6961426f 78205b30 20302035 37362037 33345d0a 3e3e0a65 6e646f62 6a0a3620 30206f62 6a0a3c3c 202f5072 6f635365 74205b20 2f504446 205d202f 436f6c6f 72537061 6365203c 3c202f43 73312037 20302052 203e3e20 2f457874 47537461 7465203c 3c202f47 73312038 20302052 0a3e3e20 3e3e0a65 6e646f62 6a0a3820 30206f62 6a0a3c3c 202f5479 7065202f 45787447 53746174 65202f63 6120302e 39203e3e 0a656e64 6f626a0a 39203020 6f626a0a 3c3c202f 4c656e67 74682031 30203020 52202f4e 2033202f 416c7465 726e6174 65202f44 65766963 65524742 202f4669 6c746572 202f466c 61746544 65636f64 65203e3e 0a737472 65616d0a 78018554 cf6b1341 14fe366e a9d02208 5a6b0eb2 78902249 59ab6845 d436fd11 626b0cdb 1fb64590 643349d6 6e36ebee 26b5a588 e4e2d12a de45eda1 07ff801e 7af0642f 4a855a45 28deab28 62a1172d f1cd6e4c b6a5eac0 ce7ef3de 37ef7d6f 76df000d 72d234f5 8004e40d c752a211 696c7c42 6afc8800 8ea20941 342555db ec4e2406 418373f9 7be7d87a 0f815b56 c37bfb77 b277ad9a d2b69a07 84fd40e0 479ad92a b0ef1771 0a591202 883cdfa1 29c77408 dfe3d8f2 ec8f394e 7978c1b5 0f2b3dc4 59227c40 352dce7f 4db853cd 25d34083 483894f5 71523e9c d78b94d7 1d07696e 66c6c810 bd4f90a6 bbcceeab 62a19c4e f60e90bd 9df47e4e b3de3ec2 21c20b19 ad3f46b8 8d9ef58c d53fe261 e1a4e6c4 863d1c18 35f4f860 15b71aa9 f835c214 5f104d27 a25471d9 2e0df198 aefd56f2 4a827090 38ca6461 80735a48 4fd74c6e f8ba8705 7d26d713 afe27756 51e1798f 1367ded4 ddef45da 02af300e 1d0c1a0c 9a0d4850 10450461 98b05040 863c1a31 34b2723f 23ab061b 937b3275 246abb74 6244b141 7b36dc3d b751a4dd 3cfe2822 719443b5 0892fc41 fe2aafc9 4fe579f9 cb5cb0d8 56f794ad 9b9abaf2 e03bc5e5 99b91a1e d7d3c8e3 734d5e7c 95d47693 574796ac 797abc9a ec1a3fec 579731e6 82358fc4 73b0fbf1 2d5f95cc 97298c14 c5e355f3 ea4b8475 5a3137df 9f6c7f3b 3de22ecf 2eb5d673 ad898b37 569b9767 fd6a48fb eeaabc93 e655f94f 5ef5f1fc 67cdc463 e2293126 768ae721 8997c52e f192d84b ab0be260 6dc7089d 958629d2 6d91fa24 d560609a bcf52f5d 3f5b78bd 467f0cf5 519419cc d25489f7 7fc22a64 349db90e 6ffa8fdb c7fc17e4 f78ae79f 28022f6c e0c899ba 6d5371ef 10a165a5 6e73ae02 17bfd17d f0b66e6b a37e38fc 04583cab 16ad5235 9f20bc01 1c76877a 1ee82998 d39696cd 3952872c 9f93bae9 ca6252cc 50db4352 52d725d7 654b16b3 995562e9 76d899d3 1d6e1ca1 3942f7c4 a74a6593 faaff111 b0fdb052 f9f9ac52 d97e4e1a d68197fa 6fc0bcfd 450a656e 64737472 65616d0a 656e646f 626a0a31 30203020 6f626a0a 3733370a 656e646f 626a0a37 2030206f 626a0a5b 202f4943 43426173 65642039 20302052 205d0a65 6e646f62 6a0a3320 30206f62 6a0a3c3c 202f5479 7065202f 50616765 73202f4d 65646961 426f7820 5b302030 20353736 20373334 5d202f43 6f756e74 2031202f 4b696473 205b2032 20302052 205d203e 3e0a656e 646f626a 0a313120 30206f62 6a0a3c3c 202f5479 7065202f 43617461 6c6f6720 2f506167 65732033 20302052 202f5665 7273696f 6e202f31 2e34203e 3e0a656e 646f626a 0a313220 30206f62 6a0a284d 6163204f 53205820 31302e36 2e372051 75617274 7a205044 46436f6e 74657874 290a656e 646f626a 0a313320 30206f62 6a0a2844 3a323031 31303332 33313233 3030355a 30302730 3027290a 656e646f 626a0a31 2030206f 626a0a3c 3c202f50 726f6475 63657220 31322030 2052202f 43726561 74696f6e 44617465 20313320 30205220 2f4d6f64 44617465 20313320 30205220 3e3e0a65 6e646f62 6a0a7872 65660a30 2031340a 30303030 30303030 30302036 35353335 2066200a 30303030 30303233 30332030 30303030 206e200a 30303030 30303039 32322030 30303030 206e200a 30303030 30303230 36322030 30303030 206e200a 30303030 30303030 32322030 30303030 206e200a 30303030 30303039 30332030 30303030 206e200a 30303030 30303130 32362030 30303030 206e200a 30303030 30303230 32372030 30303030 206e200a 30303030 30303131 32322030 30303030 206e200a 30303030 30303131 36382030 30303030 206e200a 30303030 30303230 30372030 30303030 206e200a 30303030 30303231 34352030 30303030 206e200a 30303030 30303232 30392030 30303030 206e200a 30303030 30303232 36312030 30303030 206e200a 74726169 6c65720a 3c3c202f 53697a65 20313420 2f526f6f 74203131 20302052 202f496e 666f2031 20302052 202f4944 205b203c 38393939 62363438 39386231 38346539 63343634 36633466 32316663 37383263 3e0a3c38 39393962 36343839 38623138 34653963 34363436 63346632 31666337 3832633e 205d203e 3e0a7374 61727478 7265660a 32333738 0a252545 4f460a86 86>;
+    DKDChangeTimeStamp = "2011-03-23 08:29:37 -0400";
+    DKDCreateTimeStamp = "2011-03-23 08:26:01 -0400";
+    DKDDisplayGraphicDetails =     {
+        AngleFormatDisplayDetails =         {
+            AngleDirection = Right;
+            AngleForm = degrees;
+            AngleRotation = "Counter Clockwise";
+            PrecisionAngles = 1;
+        };
+        AnglesDisplaySpec =         {
+            ExampleValueDisplaySpec = "100.010002";
+            FieldWidthDisplaySpec = "62.000000";
+            FormDisplaySpec = Decimal;
+            PrecisionDisplaySpec = 2;
+            UnitsDisplaySpec = Punctuation;
+        };
+        AreaForm = Natural;
+        HelpTipDisplaySpec =         {
+            ExampleValueDisplaySpec = "100.010002";
+            FieldWidthDisplaySpec = "62.000000";
+            FormDisplaySpec = Decimal;
+            PrecisionDisplaySpec = 3;
+            UnitsDisplaySpec = Abbreviate;
+        };
+        InspectingSpecIndex = 0;
+        LengthsDisplaySpec =         {
+            ExampleValueDisplaySpec = "100.010002";
+            FieldWidthDisplaySpec = "62.000000";
+            FormDisplaySpec = Decimal;
+            PrecisionDisplaySpec = 2;
+            UnitsDisplaySpec = Nothing;
+        };
+        PercentDisplaySpec =         {
+            ExampleValueDisplaySpec = "1.010000";
+            FieldWidthDisplaySpec = "50.000000";
+            FormDisplaySpec = Decimal;
+            PrecisionDisplaySpec = 1;
+            UnitsDisplaySpec = Punctuation;
+        };
+        PercentFormatDisplayDetails =         {
+            PercentForm = Percent;
+            PrecisionPercents = 1;
+        };
+    };
+    DKDDocumentScale =     {
+        HighPrecisonAngles = NO;
+        ScaleOriginX = "0.000000";
+        ScaleOriginY = "0.000000";
+        ScalePlusDown = YES;
+        ScalePlusToRight = YES;
+        ScaleScale = "1.000000";
+        ScaleUnits = Inches;
+    };
+    DKDDocumentTag = CB359149;
+    DKDDocumentVersion = 1;
+    DKDEazyDrawVersion = "rev. 3.5.0";
+    DKDGrids =     {
+        DynamicSnapGrid = YES;
+        GuidesLayer = NO;
+        MajorGrid =         {
+            GridAboveGraphics = NO;
+            GridRGB =             {
+                Blue = "1.000000";
+                ColorSpace = NSCalibratedRGBColorSpace;
+                Green = "0.713726";
+                Opacity = "1.000000";
+                Red = "0.549020";
+            };
+            GridSpacingX = "72.000000";
+            GridSpacingY = "72.000000";
+            LinkGridToRulers = NO;
+            PrintLineWidth = "1.100000";
+            PrintsGrid = NO;
+            ShowsGrid = NO;
+            SnapsToGrid = NO;
+        };
+        MinorGrid =         {
+            GridAboveGraphics = NO;
+            GridRGB =             {
+                Blue = "0.874510";
+                ColorSpace = NSCalibratedRGBColorSpace;
+                Green = "0.854902";
+                Opacity = "1.000000";
+                Red = "0.745098";
+            };
+            GridSpacingX = "18.000000";
+            GridSpacingY = "18.000000";
+            LinkGridToRulers = NO;
+            PrintLineWidth = "0.850000";
+            PrintsGrid = NO;
+            ShowsGrid = YES;
+            SnapsToGrid = NO;
+        };
+        SnapEnds = NO;
+        SnapGuidelines = NO;
+        SnapRadiusGrid = "3.000000";
+        SnapSound = None;
+        SoftSnap = YES;
+    };
+    DKDHideExtension = YES;
+    DKDLayersList =     (
+                {
+            CloakLayerGuidelines = NO;
+            CloakLayerVertices = NO;
+            FullLayerScale =             {
+                HighPrecisonAngles = NO;
+                ScaleOriginX = "0.000000";
+                ScaleOriginY = "0.000000";
+                ScalePlusDown = YES;
+                ScalePlusToRight = YES;
+                ScaleScale = "1.000000";
+                ScaleUnits = Inches;
+            };
+            GraphicsList =             (
+                                {
+                    Bounds = "{{64.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 48A49149;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{118.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 65B06249;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{136.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 04767249;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{172.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = D8948249;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{226.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 5D579249;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{82.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = C378A249;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{100.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 1C05B249;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{190.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 1D1E7749;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{208.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 82698749;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                },
+                                {
+                    Bounds = "{{244.5, 46.5}, {15, 15}}";
+                    Class = DKDCircle;
+                    CloakGuidelines = NO;
+                    CloakVertices = NO;
+                    GraphicID = 98C29749;
+                    GraphicName = Circle;
+                    GraphicStyle =                     {
+                        DrawsFill = NO;
+                        DrawsLine = YES;
+                        LineCapStyle = Square;
+                        LineJoinStyle = Miter;
+                        LineRGB =                         {
+                            Blue = "0.000000";
+                            ColorSpace = NSCalibratedRGBColorSpace;
+                            Green = "0.000000";
+                            Opacity = "1.000000";
+                            Red = "0.000000";
+                        };
+                        LineWidth = "2.000000";
+                        MiterLimit = 10;
+                        StrokePosition = Front;
+                        WindingRule = "Non-Zero";
+                    };
+                    GridRef =                     {
+                        GridRefPosition = "Top Left";
+                        GridRefX = "0.000000";
+                        GridRefY = "0.000000";
+                    };
+                    Locked = NO;
+                    MarkCenter = NO;
+                    ReversedPath = NO;
+                }
+            );
+            HideDimensions = NO;
+            LayerColorMod =             {
+                DKDOnColorMod = NO;
+                DKDOpacityColorMod = "0.500000";
+                DKDTintColorColorMod =                 {
+                    ColorSpace = NSCalibratedWhiteColorSpace;
+                    Opacity = "1.000000";
+                    White = "0.500000";
+                };
+                DKDTintFractionColorMod = "0.500000";
+            };
+            LayerLock = NO;
+            LayerName = Paper;
+            LayerState = Active;
+        }
+    );
+    DKDPagesSpec =     {
+        CanvasBorder =         {
+            Blue = "0.533333";
+            ColorSpace = NSCalibratedRGBColorSpace;
+            Green = "0.533333";
+            Opacity = "1.000000";
+            Red = "0.549020";
+        };
+        CanvasColor =         {
+            Blue = "0.925490";
+            ColorSpace = NSCalibratedRGBColorSpace;
+            Green = "0.925490";
+            Opacity = "1.000000";
+            Red = "0.941176";
+        };
+        CanvasMargin = "0.000000";
+        DetailsDrawerWidth = "200.000000";
+        DisplayAttributesBar = YES;
+        DisplayRulers = NO;
+        LayersDrawerWidth = "200.000000";
+        NumberAcrossFirst = YES;
+        PagesAcross = 1;
+        PagesDown = 1;
+        PagesSpecBackgroundRGB =         {
+            ColorSpace = NSDeviceWhiteColorSpace;
+            Opacity = "1.000000";
+            White = "1.000000";
+        };
+        PagesSpecPrintBackground = NO;
+        ShowPageBreaks = NO;
+    };
+    DKDPrintInfo =     {
+        BottomMargin = "40.000000";
+        Copies = 1;
+        FallBackPaperSizeHeight = "792.000000";
+        FallBackPaperSizeWidth = "612.000000";
+        FirstPage = 1;
+        HorizontalPagination = 2;
+        HorizontallyCentered = YES;
+        LastPage = "-1";
+        LeftMargin = "18.000000";
+        MustCollate = YES;
+        Orientation = "";
+        PaperName = Letter;
+        PaperSizeHeight = "792.000000";
+        PaperSizeWidth = "612.000000";
+        PreviewPageNumber = 1;
+        PrintAllPages = YES;
+        PrintJobDisposition = NSPrintSpoolJob;
+        PrintSavePath = "";
+        PrintScalingFactor = "1.000000";
+        PrinterName = megcolor;
+        ReversePageOrder = NO;
+        RightMargin = "18.000000";
+        TopMargin = "18.000000";
+        VerticalPagination = "";
+        VerticallyCentered = YES;
+        XPrintMirror = NO;
+        YPrintMirror = NO;
+    };
+    DKDSaveTimeStamp = "2011-03-23 08:30:05 -0400";
+    DKDTablet =     {
+        PenMax = "25.000000";
+        PenMin = "0.500000";
+        PenPressureFactor = "0.500000";
+    };
+    DKDTimeFormat =     {
+        "Field 0 Include" = Weekday;
+        "Field 0 Type" = Long;
+        "Field 1 Include" = Month;
+        "Field 1 Type" = Short;
+        "Field 2 Include" = Day;
+        "Field 2 Type" = Number;
+        "Field 3 Include" = Year;
+        "Field 3 Type" = Long;
+        "Include GMT" = NO;
+        "Include Title" = YES;
+        IncludeDate = YES;
+        IncludeTime = YES;
+        "Seperator 0" = " - ";
+        "Seperator 1" = ". ";
+        "Seperator 2" = ", ";
+        "Seperator 3" = "  ";
+        "Time Seperator" = ":";
+        TimeAfterDate = YES;
+        "Twelve Hour Clock" = YES;
+        "Used Once" = YES;
+    };
+    DKDToolbarSelectedButtonPairs =     (
+        "ColorTextToolbarItemIdentifier_0",
+                (
+            "HSB_000020"
+        ),
+        "ColorStrokeToolbarItemIdentifier_0",
+                (
+            "HSB_000020"
+        ),
+        "ColorFillToolbarItemIdentifier_0",
+                (
+            "HSB_0000D0"
+        ),
+        "GradientToolbarItemIdentifier_0",
+                (
+                        {
+                BurstPath =                 (
+                );
+                BurstRect = "{{0.25, 0.25}, {0.5, 0.5}}";
+                EndGradientRGB =                 {
+                    Blue = "1.000000";
+                    ColorSpace = NSCalibratedRGBColorSpace;
+                    Green = "1.000000";
+                    Opacity = "1.000000";
+                    Red = "1.000000";
+                };
+                GradientAngle = "0.000000";
+                GradientCompositeOperation = "Source Over";
+                GradientFillClass = DKDHorizontalGradientFill;
+                GradientGradientConvergence =                 {
+                    FinishGradient = "100.00000";
+                    GradientConvergence = Linear;
+                    StartGradient = "0.00000";
+                };
+                GradientImagePercent = "1.000000";
+                GradientOverlap = "1.000000";
+                GradientRadius = "0.000000";
+                LevelsOfGradient = 100;
+                StartGradientRGB =                 {
+                    Blue = "0.000000";
+                    ColorSpace = NSCalibratedRGBColorSpace;
+                    Green = "0.000000";
+                    Opacity = "1.000000";
+                    Red = "0.000000";
+                };
+                SymmetryAngle = "0.000000";
+            }
+        ),
+        "PatternForToolbarItemIdentifier_0",
+                (
+            "Toolbar_02"
+        ),
+        "ChartingMenuToolbarIdentifier_0",
+                (
+            "Right Fat Arrow",
+            "Right Fat Arrow",
+            "Right Box Arrow",
+            "Right Tear Off",
+            "Right Brace",
+            "Right Drum",
+            Folder,
+            "Bilateral Octagon",
+            "Rounded Rectangle",
+            "Right Point",
+            "Right Trapezoid",
+            "Up Parallelogram",
+            Parallelogram,
+            "Right Flame Arrow",
+            "Right Nose Rectangle",
+            "Right Rivet"
+        ),
+        "StellateMenuToolbarIdentifier_0",
+                (
+            "Equilateral Polygon",
+            "Equilateral Polygon",
+            "Free Equilateral Polygon",
+            "Crossing Star",
+            "Star - simple star",
+            "Smooth Free Star",
+            "Stagger Star",
+            "Smooth Stagger Star",
+            Spokes
+        ),
+        "MathMenuToolbarIdentifier_0",
+                (
+            "Parabola (y = x**2), a centered fixed parabola",
+            "Parabola (y = x**2), a centered fixed parabola",
+            "Cubic (y = x**3), Adjustable",
+            "Quartic (y = x**4), a centered fixed fourth order curve",
+            "One over X (y = 1 / x) for x > 0.0",
+            "Natural Exponential (y = e**x), x > 0",
+            "Tangent (y = tan(x))",
+            "Hyperbolic Tangent (y = tanh(x))",
+            "Gaussian - The \"Bell Shaped\" probability curve",
+            "Square Wave",
+            "Sine (or Cosine) wave form, y = sin(x)"
+        )
+    );
+    DKDWindowState =     {
+        CursorMode = Nothing;
+        DocCenter = "{236, 260}";
+        DrawersOnMainView = YES;
+        GDetailsLayersDrawerEdgePreference = Auto;
+        GraphicDetailsEdge = 0;
+        GraphicDetailsOpen = YES;
+        LayerActiveAbove = NO;
+        LayerOpen = NO;
+        LayerSelect = "Active Only";
+        LayersDrawerEdgePreference = Auto;
+        WindowLocation = "104 318 685 555 0 0 1440 878 ";
+        ZoomPercent = "100.000000";
+    };
+    DocumentCompression = None;
+    IndependentLayers = NO;
+    NumberColorsToListInContextMenu = 12;
+    NumberPairColorsToListInContextMenu = 6;
+}
